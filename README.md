@@ -1,3 +1,7 @@
+# Goal
+
+Me getting familiar with BDD.
+
 # Reference
 - [Setup React and Tailwind CSS with Vite in a Project](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/)
 - [How to write E2E tests in plain text using Cucumber.js](https://dev.to/pahanperera/gherkin-style-e2e-tests-for-a-web-application-using-cucumberjs-4djl)
